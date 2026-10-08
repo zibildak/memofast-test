@@ -1,0 +1,4 @@
+{
+  "data": "{\r\n  \"issued\": \"2026-10-08T14:56:22.8718242Z\",\r\n  \"codes\": [\r\n    {\r\n      \"salt\": \"JeMlNbEiOFd6wJz0BMxGMg==\",\r\n      \"iterations\": 600000,\r\n      \"expires\": \"2026-11-07T14:56:22.5277079Z\",\r\n      \"box\": \"CWNikjGmKApM3HRoDdgqD3vtU47RfnTMMCPYanJZ+y3ISeAEcGiBiH/twZAtGVhsEdSjFANURbGsLK+azOS4f90fARqNPGoLXFsVxfPJpertx84LMOYKjiRq8SCEjd7Y7uf/p/TSmI8kiQ6mQshQwo/+vOp5ObTIzl56bmaoknq4DPWFeEJBhK8UEa/qWRZTyKSuzS48F7oDFtqCK2FIgw9mF//W81PMu+hc8LRn2IiP1yGwphuuMI77EeC6oiEZew==\"\r\n    }\r\n  ]\r\n}",
+  "sig": "CJMp5NgrOCbgSPUlN9qxLr/fKWOpHNliZpd2SRG/GIenfhAAallLWSAY1GIcTjVK8E/FTJ34WxsZQ/MCJTOQlA=="
+}
