@@ -1,0 +1,39 @@
+{
+  "catalogVersion": 1,
+  "patches": [
+    {
+      "id": "test-pro",
+      "gameName": "Test Oyun (Pro)",
+      "title": "Türkçe Yama",
+      "version": "1.0",
+      "tier": "pro",
+      "cover": null,
+      "hero": null,
+      "color": "#26352C",
+      "description": "Yeni pro sistemi test yaması.",
+      "warning": "",
+      "updatedAt": "2026-10-08",
+      "comingSoon": false,
+      "changelog": [],
+      "info": {
+        "Kurulum": "Dosya ekleme / değiştirme",
+        "Çeviren": "MemoFast ekibi"
+      },
+      "detect": {
+        "mustExist": [],
+        "steamAppId": null
+      },
+      "package": {
+        "url": null,
+        "size": 2501059,
+        "sha256": "5134cc2afb14d4d6447c301d2c02255846548a07b69507ab4f8dc41baa2134f2",
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-test/releases/download/test-pro-v1.0/test-pro-1.0.mfp",
+          "size": 2501123,
+          "sha256": "47793f7d6ce5867061d1f76bd8bb9bd6c17018f18cb39ac179386d0842964695"
+        }
+      },
+      "installer": null
+    }
+  ]
+}
