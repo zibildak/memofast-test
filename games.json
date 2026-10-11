@@ -1,12 +1,12 @@
 {
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "patches": [
     {
       "id": "test-pro",
       "gameName": "Test Oyun (Pro)",
       "title": "Türkçe Yama",
       "version": "1.0",
-      "tier": "free",
+      "tier": "pro",
       "cover": null,
       "hero": null,
       "color": "#26352C",
@@ -24,10 +24,14 @@
         "steamAppId": null
       },
       "package": {
-        "url": "https://github.com/zibildak/memofast-test/releases/download/test-pro-v1.0/test-pro-1.0.zip",
+        "url": null,
         "size": 2501059,
         "sha256": "5134cc2afb14d4d6447c301d2c02255846548a07b69507ab4f8dc41baa2134f2",
-        "sealed": null
+        "sealed": {
+          "url": "https://github.com/zibildak/memofast-test/releases/download/test-pro-v1.0/test-pro-1.0.mfp",
+          "size": 2501123,
+          "sha256": "0c7a0cbd8561811aae1bb975006d5e229aa2a5987c0bd2773471e536d8ff9fe2"
+        }
       },
       "installer": null
     }
